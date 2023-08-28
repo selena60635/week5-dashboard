@@ -1,0 +1,17 @@
+.personal {
+  &-img {
+    border-radius: 50%;
+    width: 52px;
+    height: 52px;
+    img {
+      width: 52px;
+      bottom: 8px;
+    }
+  }
+}
+.editor {
+  &-enter {
+    outline: none;
+    resize: none;
+  }
+}
