@@ -8,3 +8,7 @@
 @import "./pages/index.scss";
 
 @import "../../node_modules/bootstrap";
+
+* {
+  outline: 1px solid blue;
+}
